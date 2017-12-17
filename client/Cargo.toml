@@ -6,3 +6,7 @@ authors = ["treyzania <treyzania@gmail.com>"]
 [dependencies]
 clap = "2.29.0"
 notify = "4.0.0"
+
+[[bin]]
+name = "synmux"
+main = "main.rs"
