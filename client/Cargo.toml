@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["treyzania <treyzania@gmail.com>"]
 
 [dependencies]
-synmux-core = { path = "../core" }
+clap = "2.29.0"
+notify = "4.0.0"
