@@ -9,4 +9,4 @@ notify = "4.0.0"
 
 [[bin]]
 name = "synmux"
-main = "main.rs"
+path = "main.rs"
